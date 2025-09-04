@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "transactions_fraud_2025",
+            "database": "Payment_Card_Fraud_2025",
+            "username": "postgres"
+        }
+    ]
+}
